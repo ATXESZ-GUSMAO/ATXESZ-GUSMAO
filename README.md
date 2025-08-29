@@ -53,6 +53,8 @@ Atualmente, estou focado na área de **desenvolvimento fullstack** utilizando **
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt="Godot 4" title="Godot 4" width="30px" style="padding-right:10px;" src="https://godotengine.org/assets/press/icon_color.png"/>
+<img align="left" alt="GDScript" title="GDScript" width="30px" style="padding-right:10px;" src="https://drygast.net/assets/images/categories/gdscript16x9a640w360h.webp"/>
 
 <br/><br/>
 

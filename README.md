@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lucas Gusmão
 
-**`Desenvolvedor Junior FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Lucas Gabriel Gusmão, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas na UNIFAN. Sou apaixonado por tecnologia e busco sempre evoluir e compartilhar conhecimento através do meu Instagram [@atxes.dev](https://www.instagram.com/atxes.dev/).  
 Atualmente, estou focado na área de **desenvolvimento fullstack** utilizando **JavaScript**.

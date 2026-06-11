@@ -8,7 +8,7 @@ Construindo produtos digitais e experiências interativas a partir do Brasil.
 
 [![Website](https://img.shields.io/badge/atxes--studios-website-00B0FF?style=flat-square&labelColor=0d1117&logo=googlechrome&logoColor=white)](https://atxes-studios-ltdaa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--gabriel--gusm%C3%A3o-00B0FF?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-gabriel-gusmão)
-[![Instagram](https://img.shields.io/badge/Instagram-%40atxes.dev-00B0FF?style=flat-square&labelColor=0d1117&logo=instagram&logoColor=white)](https://instagram.com/atxes.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-%40guz.d3v-00B0FF?style=flat-square&labelColor=0d1117&logo=instagram&logoColor=white)](https://www.instagram.com/guz.d3v/)
 
 </div>
 

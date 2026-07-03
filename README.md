@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00B0FF&height=180&section=header&text=Lucas%20Gabriel%20Gusm%C3%A3o&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Founder%20%26%20CEO%20-%20ATXES%20Studios&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00B0FF&height=180&section=header&text=Lucas%20Gabriel%20Gusm%C3%A3o&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Founder%20e%20CEO%20-%20ATXES%20Studios&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://atxes.com.br">
   <img src="https://img.shields.io/badge/atxes--studios-website-0D1117?style=for-the-badge&logo=vercel&logoColor=00B0FF&labelColor=0D1117" />
@@ -57,8 +57,8 @@ Holding com duas divisões ativas:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ATXESZ-GUSMAO&show_icons=true&theme=dark_dimmed&bg_color=0D1117&title_color=00B0FF&icon_color=00B0FF&text_color=C9D1D9&border_color=00B0FF&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATXESZ-GUSMAO&layout=compact&theme=dark_dimmed&bg_color=0D1117&title_color=00B0FF&text_color=C9D1D9&border_color=00B0FF&hide_border=false" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ATXESZ-GUSMAO&show_icons=true&theme=dark_dimmed&bg_color=0D1117&title_color=00B0FF&icon_color=00B0FF&text_color=C9D1D9&border_color=00B0FF&hide_border=false&cache_seconds=86400" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATXESZ-GUSMAO&layout=compact&theme=dark_dimmed&bg_color=0D1117&title_color=00B0FF&text_color=C9D1D9&border_color=00B0FF&hide_border=false&cache_seconds=86400" width="42%" />
 
 <br/><br/>
 

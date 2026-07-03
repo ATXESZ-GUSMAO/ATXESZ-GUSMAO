@@ -1,50 +1,69 @@
 <div align="center">
 
-# Lucas Gabriel Gusmão
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00B0FF&height=180&section=header&text=Lucas%20Gabriel%20Gusm%C3%A3o&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Founder%20%26%20CEO%20—%20ATXES%20Studios&descAlignY=60&descSize=18" width="100%"/>
 
-**Founder & CEO — [ATXES Studios](https://github.com/atxes-studios)**
+<a href="https://atxes.com.br">
+  <img src="https://img.shields.io/badge/atxes--studios-website-0D1117?style=for-the-badge&logo=vercel&logoColor=00B0FF&labelColor=0D1117" />
+</a>
+<a href="https://linkedin.com/in/lucas-gabriel-gusmao">
+  <img src="https://img.shields.io/badge/LinkedIn-lucas--gabriel--gusmão-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B0FF&labelColor=0D1117" />
+</a>
+<a href="https://instagram.com/guz.d3v">
+  <img src="https://img.shields.io/badge/Instagram-@guz.d3v-0D1117?style=for-the-badge&logo=instagram&logoColor=00B0FF&labelColor=0D1117" />
+</a>
 
-Construindo produtos digitais e experiências interativas a partir do Brasil.
+<br/>
 
-[![Website](https://img.shields.io/badge/atxes--studios-website-00B0FF?style=flat-square&labelColor=0d1117&logo=googlechrome&logoColor=white)](https://atxes-studios-ltdaa.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--gabriel--gusm%C3%A3o-00B0FF?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-gabriel-gusmão)
-[![Instagram](https://img.shields.io/badge/Instagram-%40guz.d3v-00B0FF?style=flat-square&labelColor=0d1117&logo=instagram&logoColor=white)](https://www.instagram.com/guz.d3v/)
+<a href="https://github.com/ATXESZ-GUSMAO">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=00B0FF&center=true&vCenter=true&width=560&lines=Construindo+produtos+digitais+a+partir+do+Brasil;Holding+com+duas+divis%C3%B5es%3A+Digital+Solutions+%26+Entertainment;Founder+%26+Developer+%40+ATXES+Studios" alt="Typing SVG" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B0FF,100:0D1117&height=3&width=100%" width="100%"/>
 
 </div>
 
----
+<br/>
 
 ## ATXES Studios
 
 Holding com duas divisões ativas:
 
-**◢ Digital Solutions** — produtos digitais, aplicativos e posicionamento comercial.
+**◤ Digital Solutions** — produtos digitais, aplicativos e posicionamento comercial.
 &nbsp;&nbsp;&nbsp;&nbsp;→ **Mind Journey** · app de bem-estar emocional com companhia de IA.
 
-**◢ Entertainment** — jogos de horror psicológico.
+**◤ Entertainment** — jogos de horror psicológico.
 &nbsp;&nbsp;&nbsp;&nbsp;→ **Wake Line** · uma descida psicológica. Em desenvolvimento.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B0FF,100:0D1117&height=3&width=100%" width="100%"/>
+
+<br/>
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00B0FF)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00B0FF)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=00B0FF)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00B0FF)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00B0FF)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=00B0FF)
-
----
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ATXESZ-GUSMAO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00B0FF&icon_color=00B0FF&text_color=c9d1d9&hide_rank=true&include_all_commits=true" alt="GitHub Stats" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATXESZ-GUSMAO&layout=compact&hide_border=true&bg_color=0d1117&title_color=00B0FF&text_color=c9d1d9" alt="Top Languages" height="160" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00B0FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00B0FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=00B0FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00B0FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00B0FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0D1117?style=for-the-badge&logo=framer&logoColor=00B0FF&labelColor=0D1117" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B0FF,100:0D1117&height=3&width=100%" width="100%"/>
+
+<br/>
+
 <div align="center">
-<sub>devgusmao1@gmail.com</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ATXESZ-GUSMAO&show_icons=true&theme=dark_dimmed&bg_color=0D1117&title_color=00B0FF&icon_color=00B0FF&text_color=C9D1D9&border_color=00B0FF&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATXESZ-GUSMAO&layout=compact&theme=dark_dimmed&bg_color=0D1117&title_color=00B0FF&text_color=C9D1D9&border_color=00B0FF&hide_border=false" width="42%" />
+
+<br/><br/>
+
+📧 devgusmao1@gmail.com &nbsp;·&nbsp; 🌐 atxes.com.br
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B0FF,100:0D1117&height=100&section=footer" width="100%"/>
+
 </div>

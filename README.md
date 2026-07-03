@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/ATXESZ-GUSMAO">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Construindo+produtos+digitais+a+partir+do+Brasil%3BHolding+com+duas+divisoes%3A+Digital+Solutions+%26+Entertainment%3BFounder+%26+Developer+%40+ATXES+Studios&animation=typing&color=00B0FF&background=00000000&size=18&font=sans&duration=3000&pause=1000&width=560&height=50&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=00B0FF&background=00000000&center=true&vCenter=true&width=560&lines=Construindo+produtos+digitais+a+partir+do+Brasil;Holding+com+duas+divisoes%3A+Digital+Solutions+e+Entertainment;Founder+e+Developer+%40+ATXES+Studios" alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B0FF,100:0D1117&height=3&width=100%" width="100%"/>
@@ -57,8 +57,9 @@ Holding com duas divisões ativas:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ATXESZ-GUSMAO&show_icons=true&theme=dark_dimmed&bg_color=0D1117&title_color=00B0FF&icon_color=00B0FF&text_color=C9D1D9&border_color=00B0FF&hide_border=false&cache_seconds=86400" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATXESZ-GUSMAO&layout=compact&theme=dark_dimmed&bg_color=0D1117&title_color=00B0FF&text_color=C9D1D9&border_color=00B0FF&hide_border=false&cache_seconds=86400" width="42%" />
+<img src="https://img.shields.io/github/followers/ATXESZ-GUSMAO?style=for-the-badge&logo=github&logoColor=00B0FF&label=FOLLOWERS&labelColor=0D1117&color=0D1117" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=00B0FF&label=REPOS&labelColor=0D1117&color=0D1117&url=https://api.github.com/users/ATXESZ-GUSMAO&query=%24.public_repos" />
+<img src="https://img.shields.io/github/stars/ATXESZ-GUSMAO?style=for-the-badge&logo=github&logoColor=00B0FF&label=STARS&labelColor=0D1117&color=0D1117&affiliations=OWNER" />
 
 <br/><br/>
 

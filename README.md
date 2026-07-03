@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00B0FF&height=180&section=header&text=Lucas%20Gabriel%20Gusm%C3%A3o&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Founder%20%26%20CEO%20—%20ATXES%20Studios&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00B0FF&height=180&section=header&text=Lucas%20Gabriel%20Gusm%C3%A3o&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Founder%20%26%20CEO%20-%20ATXES%20Studios&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://atxes.com.br">
   <img src="https://img.shields.io/badge/atxes--studios-website-0D1117?style=for-the-badge&logo=vercel&logoColor=00B0FF&labelColor=0D1117" />
@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/ATXESZ-GUSMAO">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Construindo+produtos+digitais+a+partir+do+Brasil;Holding+com+duas+divisoes%3A+Digital+Solutions+%26+Entertainment;Founder+%26+Developer+%40+ATXES+Studios&animation=typing&color=00B0FF&background=00000000&size=18&font=sans&duration=3000&pause=1000&width=560&height=50&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Construindo+produtos+digitais+a+partir+do+Brasil%3BHolding+com+duas+divisoes%3A+Digital+Solutions+%26+Entertainment%3BFounder+%26+Developer+%40+ATXES+Studios&animation=typing&color=00B0FF&background=00000000&size=18&font=sans&duration=3000&pause=1000&width=560&height=50&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B0FF,100:0D1117&height=3&width=100%" width="100%"/>

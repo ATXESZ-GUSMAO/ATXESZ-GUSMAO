@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/ATXESZ-GUSMAO">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=00B0FF&center=true&vCenter=true&width=560&lines=Construindo+produtos+digitais+a+partir+do+Brasil;Holding+com+duas+divis%C3%B5es%3A+Digital+Solutions+%26+Entertainment;Founder+%26+Developer+%40+ATXES+Studios" alt="Typing SVG" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Construindo+produtos+digitais+a+partir+do+Brasil;Holding+com+duas+divisoes%3A+Digital+Solutions+%26+Entertainment;Founder+%26+Developer+%40+ATXES+Studios&animation=typing&color=00B0FF&background=00000000&size=18&font=sans&duration=3000&pause=1000&width=560&height=50&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B0FF,100:0D1117&height=3&width=100%" width="100%"/>

@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/ATXESZ-GUSMAO">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=00B0FF&background=00000000&center=true&vCenter=true&width=560&lines=Construindo+produtos+digitais+a+partir+do+Brasil;Holding+com+duas+divisoes%3A+Digital+Solutions+e+Entertainment;Founder+e+Developer+%40+ATXES+Studios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=00B0FF&background=00000000&center=true&vCenter=true&width=560&lines=Construindo+produtos+digitais+a+partir+do+Brasil;Holding+com+tres+divisoes%3A+Entertainment%2C+Digital+Solutions+e+Labs;Founder+e+Developer+%40+ATXES+Studios" alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B0FF,100:0D1117&height=3&width=100%" width="100%"/>
@@ -26,13 +26,18 @@
 
 ## ATXES Studios
 
-Holding com duas divisões ativas:
+Holding com três divisões ativas:
 
-**◤ Digital Solutions** — produtos digitais, aplicativos e posicionamento comercial.
-&nbsp;&nbsp;&nbsp;&nbsp;→ **Mind Journey** · app de bem-estar emocional com companhia de IA.
+**◤ Entertainment** — jogos digitais autorais e propriedade intelectual própria.
+&nbsp;&nbsp;&nbsp;&nbsp;→ **Wake Line** · horror psicológico. Uma descida psicológica. Em desenvolvimento.
 
-**◤ Entertainment** — jogos de horror psicológico.
-&nbsp;&nbsp;&nbsp;&nbsp;→ **Wake Line** · uma descida psicológica. Em desenvolvimento.
+**◤ Digital Solutions** — software house oficial da ATXES, soluções sob demanda para empresas.
+&nbsp;&nbsp;&nbsp;&nbsp;→ sistemas web, apps mobile, SaaS, APIs e integrações.
+
+**◤ Labs** — laboratório de pesquisa e desenvolvimento de produtos proprietários escaláveis.
+&nbsp;&nbsp;&nbsp;&nbsp;→ **Mind Journey** · bem-estar emocional com companhia de IA.
+&nbsp;&nbsp;&nbsp;&nbsp;→ **PsicoGest** · sistema para psicólogos e clínicas.
+&nbsp;&nbsp;&nbsp;&nbsp;→ **Scripta** · editor acadêmico inteligente.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B0FF,100:0D1117&height=3&width=100%" width="100%"/>
 
